@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<network-security-config>
+
+    <domain-config cleartextTrafficPermitted="true">
+
+        <domain includeSubdomains="true">gki-webik.ru</domain>
+        <domain includeSubdomains="true">vk.com</domain>
+        <domain includeSubdomains="true">yandex.ru</domain>
+        <domain includeSubdomains="true">mail.ru</domain>
+        <domain includeSubdomains="true">div-dev.ru</domain>
+        <domain includeSubdomains="true">klicks.ru</domain>
+        <domain includeSubdomains="true">xn----btbccmpekg.xn--p1ai</domain>
+        <domain includeSubdomains="true">xn--80ap2acbgq.xn--p1ai</domain>
+        <domain includeSubdomains="true">xn--e1aqedp.xn--p1ai</domain>
+        <domain includeSubdomains="true">gki-wbk.ru</domain>
+        <domain includeSubdomains="true">gki-wk.ru</domain>
+        <domain includeSubdomains="true">magic-wk.ru</domain>
+
+    </domain-config>
+
+</network-security-config>

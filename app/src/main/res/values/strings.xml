@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WEBIK</string>
+    <string name="main_url">https://gki-webik.ru/</string>
+    <string name="some_domain">(.*\\.)?gki-webik\\.ru$</string>
+    <string name="some_domain_2">(.*\\.)?vk\\.com$</string>
+    <string name="some_domain_3">(.*\\.)?yandex\\.ru$</string>
+    <string name="some_domain_4">(.*\\.)?mail\\.ru$</string>
+    <string name="some_domain_5">(.*\\.)?div-dev\\.ru$</string>
+    <string name="some_domain_6">(.*\\.)?klicks\\.ru$</string>
+    <string name="some_domain_7">(.*\\.)?xn----btbccmpekg\\.xn--p1ai$</string>
+    <string name="some_domain_8">(.*\\.)?xn--80ap2acbgq\\.xn--p1ai$</string>
+    <string name="some_domain_9">(.*\\.)?xn--e1aqedp\\.xn--p1ai$</string>
+    <string name="some_domain_10">(.*\\.)?gki-wbk\\.ru$</string>
+    <string name="some_domain_11">(.*\\.)?gki-wk\\.ru$</string>
+    <string name="some_domain_12">(.*\\.)?magic-wk\\.ru$</string>
+</resources>
